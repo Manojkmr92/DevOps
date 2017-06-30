@@ -1,3 +1,4 @@
 start 
 hello world
+today is thursday
 stop
