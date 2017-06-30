@@ -1,4 +1,5 @@
 start 
 hello world
 today is thursday
+it is so cloudy today
 stop
