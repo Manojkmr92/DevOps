@@ -1,4 +1,7 @@
 Start 
 !# /bin/bash 
 echo "Bahubali-2 The Conclusion"
+Amerendra Bahubali  
+Devasena 
+Mahendra Bahubali
 stop
