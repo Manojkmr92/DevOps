@@ -1,3 +1,6 @@
 start 
 Welcome to USA
+" I am Donald Trumph &
+I Approve this message"
+"Make America Great Again"
 stop
