@@ -1,0 +1,4 @@
+start 
+!# /bin/bash
+echo " A P J Abdul kalam"
+stop

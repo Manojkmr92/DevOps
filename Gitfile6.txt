@@ -1,0 +1,5 @@
+start 
+!# /bin/bash
+echo " I Love You AMMA"
+echo "I Love you NANNA"
+stop
